@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Myself Famous is now going to learn coding and create projects
 <!--
 **Famous1295/Famous1295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
