@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Famous Savaj 👋
 
-<!--
-**Famous1295/Famous1295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance Full-Stack Developer | Final-Year CSE Student | AI-Native Builder
 
-Here are some ideas to get you started:
+💼 Freelance Full-Stack Developer
+🎓 B.Tech CSE, Indus Institute of Technology & Engineering
+🚀 Building StudyPace — latest project
+🌱 Starting 30 Days, 30 AI Web Apps challenge in January
+🎥 Creator @ MrSimulator — HTML5 Canvas physics simulations
+☁️ AWS Certified — Cloud Foundations, ML Foundations, ML for NLP
+Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript/TypeScript Python Java C C++ C# PHP SQL
+
+Tech Stack
+
+React TanStack Start Vite Tailwind CSS Supabase Vercel Spring MERN
+
+Projects
+StudyPace — latest project (in progress)
+WealthPulse — personal finance app (React, TanStack Start, Supabase)
+FinStable — financial health scoring system (React, Vite, Supabase)
+Smart Semester Workload Balancer — TanStack Start + Supabase
+Pulse — household finance tracker for FRAS Nutrayu (React, Supabase)
+Nutrayu Stock — inventory management system
+Daily OS — productivity suite
+DriveSafe — Android app with Firebase + TensorFlow Lite
+IG Auto Poster — Telegram bot → GitHub Actions → Instagram Graph API
+MrSimulator — HTML5 Canvas/Pygame physics simulations & games
+Portfolio Website — Three.js hero, mini-game, weather-reactive UI
+Connect
+
+LinkedIn · famoussavaj1295@gmail.com
